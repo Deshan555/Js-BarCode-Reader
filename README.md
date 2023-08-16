@@ -1,4 +1,4 @@
-# HTML5 QR Scan App 📷
+# HTML5 QR Scan App(PHP) 📷 
 
 Welcome to the HTML5 QR Scan App! This innovative application, built using HTML5, PHP, and the power of [html5-qrcode](https://github.com/mebjas/html5-qrcode.git), brings barcode scanning to life. With an added touch of MySQL magic, it becomes an attendance system like no other.
 
